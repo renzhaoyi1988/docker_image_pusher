@@ -1,2 +1,2 @@
 oliver006/redis_exporter:v1.61.0
-jeessy2/ddns-go:latest
+jeessy2/ddns-go
